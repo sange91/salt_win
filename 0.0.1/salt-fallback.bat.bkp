@@ -1,0 +1,3 @@
+"C:\vault\prod\softwares\dev\saltstack\0.0.1\bin\ssm.exe" stop salt-minion-test 
+"C:\vault\prod\softwares\dev\saltstack\0.0.1\bin\ssm.exe" remove salt-minion-test confirm 
+"C:\vault\prod\softwares\dev\saltstack\0.0.1\bin\ssm.exe" install salt-minion-test "C:\vault\prod\softwares\dev\saltstack\0.0.1\salt-miniond.bat" 
